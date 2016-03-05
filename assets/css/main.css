@@ -3270,7 +3270,9 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			/*background-color: #b74e91;*/
+			background-image: url("images/tennisblur2.png");
+			background-size:cover;
 		}
 
 		.wrapper.style3-alt {
